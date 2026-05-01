@@ -1,26 +1,26 @@
 {
-        "name": "ENTRENADIR FIT 2.1",
-        "short_name": "Entrenadir",
-        "description": "Laboratorio de Aumento Corporal  - App de entrenamiento de hipertrofia, tonificacion y fuerza maxima.",
-        "start_url": "./index.html",
-        "scope": "./",
-        "display": "standalone",
-        "background_color": "#050505",
-        "theme_color": "#dc143c",
-        "orientation": "portrait-primary",
-        "lang": "es",
-        "icons": [
-                  {
-                              "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
-                              "sizes": "192x192",
-                              "type": "image/png",
-                              "purpose": "any"
-                  },
-                  {
-                              "src": "https://www.pwabuilder.com/assets/icons/icon_512.png",
-                              "sizes": "512x512",
-                              "type": "image/png",
-                              "purpose": "maskable"
-                  }
-        ]
+          "name": "ENTRENADIR FIT 2.1",
+          "short_name": "Entrenadir",
+          "description": "Laboratorio de Aumento Corporal  - App de entrenamiento de hipertrofia, tonificacion y fuerza maxima.",
+          "start_url": "./index.html",
+          "scope": "./",
+          "display": "standalone",
+          "background_color": "#050505",
+          "theme_color": "#dc143c",
+          "orientation": "portrait-primary",
+          "lang": "es",
+          "icons": [
+                      {
+                                    "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
+                                    "sizes": "192x192",
+                                    "type": "image/png",
+                                    "purpose": "any"
+                      },
+                      {
+                                    "src": "https://www.pwabuilder.com/assets/icons/icon_512.png",
+                                    "sizes": "512x512",
+                                    "type": "image/png",
+                                    "purpose": "maskable"
+                      }
+          ]
 }
