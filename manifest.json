@@ -1,0 +1,28 @@
+{
+      "name": "ENTRENADIR FIT 2.1",
+      "short_name": "Entrenadir",
+      "description": "Laboratorio de Aumento Corporal  - App de entrenamiento de hipertrofia, tonificacion y fuerza maxima.",
+      "start_url": "./index.html",
+      "scope": "./",
+      "display": "standalone",
+      "background_color": "#050505",
+      "theme_color": "#dc143c",
+      "orientation": "portrait-primary",
+      "lang": "es",
+      "icons": [
+                {
+                              "src": "img/ex_pecho.png",
+                              "sizes": "192x192",
+                              "type": "image/png",
+                              "purpose": "any"
+                },
+                {
+                              "src": "img/cyber_avatar.png",
+                              "sizes": "512x512",
+                              "type": "image/png",
+                              "purpose": "any maskable"
+                }
+      ],
+      "screenshots": [],
+      "categories": ["health", "fitness", "sports"]
+}
